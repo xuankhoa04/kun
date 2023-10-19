@@ -1,0 +1,42 @@
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\bin\Debug\Menu.exe.config
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\bin\Debug\Menu.exe
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\bin\Debug\Menu.pdb
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.BanDoc.resources
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.Properties.Resources.resources
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.exe
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.pdb
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.NhaCungCap.resources
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.NhanVien.resources
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.PhieuMuon.resources
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.PhieuMuon_Sach.resources
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.PhieuNhap.resources
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.PhieuNhap_Sach.resources
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.Sach.resources
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.Form1.resources
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.ThongkeMuonSach.resources
+E:\Đồ án 1_ Nhóm 1\QuanLyThuVien\Menu\obj\Debug\Menu.ThongkeNhapSach.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\bin\Debug\Menu.exe.config
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\bin\Debug\Menu.exe
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\bin\Debug\Menu.pdb
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.BanDoc.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.NhaCungCap.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.NhanVien.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.PhieuMuon.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.PhieuMuon_Sach.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.PhieuNhap.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.PhieuNhap_Sach.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.Sach.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.ThongkeMuonSach.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.ThongkeNhapSach.resources
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.exe
+C:\Users\xuank\Desktop\Đồ án 1_ Nhóm 1 (1)\QuanLyThuVien\Menu\obj\Debug\Menu.pdb
